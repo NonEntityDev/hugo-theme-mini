@@ -1,6 +1,4 @@
-# Hugo Theme Mini
-
-English | [简体中文](https://github.com/nodejh/hugo-theme-mini/tree/master/README-zh_CN.md)
+# Hugo Theme Mini [Non-Entity Fork]
 
 A fast, minimalist and responsive hugo theme.
 
